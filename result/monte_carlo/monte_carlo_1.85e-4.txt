@@ -1,0 +1,6 @@
+Test set: Average loss: 11.1083, Accuracy: 7815/10000 (78.15%)
+
+Trial faul rate 1.85e-4 162: Accuracy = 78.15%
+Trial faul rate 1.85e-4 (<=78.255) 100: Accuracy = 78.15%
+Completed 100 fial trials.
+result: 100/162

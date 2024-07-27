@@ -1,0 +1,6 @@
+Test set: Average loss: 10.9409, Accuracy: 7818/10000 (78.18%)
+
+Trial faul rate 1.8e-4 228: Accuracy = 78.18%
+Trial faul rate 1.8e-4 (<=78.255) 100: Accuracy = 78.18%
+Completed 100 fail trials.
+result = 100/228
